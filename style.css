@@ -1,11 +1,11 @@
 body {
-	background: lightgrey;
-	color: magenta;
+	background: #696969	;
+	color: #ACCFCC;
 	margin: 0;
 }
 
 header {
-	background: indigo;
+	background: #8A0917;
 	text-align: center;
 	height: 200px;
 }
@@ -60,13 +60,13 @@ p {
 }
 
 footer {
-	background: indigo;
+	background: #8A0917;
 	height: 100px;
 }
 
 footer a {
-	color: magenta;
 	font-size: 50px;
+	color: #ACCFCC;
 	display: block;
 	text-align: center;
 	line-height: 100px;
