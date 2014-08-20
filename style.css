@@ -1,11 +1,12 @@
 body {
-	background: #696969	;
-	color: #ACCFCC;
+	background: #0820FF;
+	color: #2EF80A;
 	margin: 0;
 }
 
 header {
-	background: #8A0917;
+	background: #00069A;
+	color:#2EF80A;
 	text-align: center;
 	height: 200px;
 }
@@ -60,13 +61,13 @@ p {
 }
 
 footer {
-	background: #8A0917;
+	background: #00069A;
 	height: 100px;
 }
 
 footer a {
 	font-size: 50px;
-	color: #ACCFCC;
+	color: #2EF80A;
 	display: block;
 	text-align: center;
 	line-height: 100px;
