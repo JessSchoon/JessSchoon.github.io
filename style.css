@@ -1,31 +1,35 @@
 body {
-	background: #0820FF;
-	color: #2EF80A;
+	background: #3533B2;
+	font-family: 'Lobster', serif;
+	color: #3CF80B;
 	margin: 0;
 }
 
 header {
 	background: #00069A;
-	color:#2EF80A;
 	text-align: center;
 	height: 200px;
+	text-shadow: 4px 4px 4px #5B7853;
 }
 
 h1 {
 	font-size: 100px;
 	line-height: 200px;
 	margin: 0;
+	text-shadow: 4px 4px 4px #307F3D;
 }
 
 h2 {
 	text-align: center;
+	color:#2EF80A;
 	font-size: 50px;
+	text-shadow: 4px 4px 4px #307F3D;
 }
 
 p {
 	width: 720px;
 	margin: 0 auto 20px;
-	text-align: center;
+	font-family: 'Oxygen', serif;
 }
 
 .big-block {
@@ -68,6 +72,7 @@ footer {
 footer a {
 	font-size: 50px;
 	color: #2EF80A;
+	text-shadow: 4px 4px 4px #307F3D;
 	display: block;
 	text-align: center;
 	line-height: 100px;
