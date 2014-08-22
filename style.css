@@ -7,6 +7,7 @@ body {
 
 header {
 	background: #00069A;
+	border-bottom: 4px solid #FF5B00;
 	text-align: center;
 	height: 200px;
 	text-shadow: 4px 4px 4px #5B7853;
@@ -67,6 +68,7 @@ p {
 footer {
 	background: #00069A;
 	height: 100px;
+	border-top: 4px solid #FF5B00;
 }
 
 footer a {
