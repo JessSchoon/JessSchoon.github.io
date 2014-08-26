@@ -33,6 +33,12 @@ p {
 	font-family: 'Oxygen', serif;
 }
 
+.pic{
+	display: block;
+	width: 300px;
+	margin: 20px auto;
+}
+
 .big-block {
 	display: block;
 	width: 720px;
