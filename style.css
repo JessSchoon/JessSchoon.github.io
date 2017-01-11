@@ -11,6 +11,9 @@ header {
 	text-align: center;
 	height: 200px;
 	text-shadow: 4px 4px 4px #5B7853;
+	display: flex; 
+	justify-content: space-between;
+	align-items: center;
 }
 
 h1 {
