@@ -1,90 +1,21 @@
 body {
-	background: #3533B2;
-	font-family: 'Lobster', serif;
-	color: #3CF80B;
-	margin: 0;
+background: #3533B2;
+font-family: 'Lobster', serif;
+color: #3CF80B;
+margin: 0;
 }
 
 header {
-	background: #00069A;
-	border-bottom: 4px solid #FF5B00;
-	text-align: center;
-	height: 200px;
-	text-shadow: 4px 4px 4px #5B7853;
-	display: flex; 
-	justify-content: space-between;
-	align-items: center;
+background: #00069A;
+border-bottom: 4px solid #FF5B00;
+text-align: center;
+height: 200px;
+text-shadow: 4px 4px 4px #5B7853;
+display: flex;
+justify-content: space-between;
+align-items: center;
 }
 
-h1 {
-	font-size: 100px;
-	line-height: 200px;
-	margin: 0;
-	text-shadow: 4px 4px 4px #307F3D;
-}
-
-h2 {
-	text-align: center;
-	color:#2EF80A;
-	font-size: 50px;
-	text-shadow: 4px 4px 4px #307F3D;
-}
-
-p {
-	width: 720px;
-	margin: 0 auto 20px;
-	font-family: 'Oxygen', serif;
-}
-
-.pic{
-	display: block;
-	width: 300px;
-	margin: 20px auto;
-}
-
-.big-block {
-	display: block;
-	width: 720px;
-	margin: 0 auto;
-}
-
-.small-block {
-	float: left;
-	display: block;
-	width: 220px;
-	margin-right: 30px;
-}
-
-.small-block:last-child {
-	margin-right: 0;
-}
-
-.family-pictures {
-	width: 720px;
-	margin: 0 auto 20px;
-}
-
-.clearfix:before,
-.clearfix:after {
-	content: " ";
-	display: table;
-}
-
-.clearfix:after {
-	clear: both;
-}
-
-footer {
-	background: #00069A;
-	height: 100px;
-	border-top: 4px solid #FF5B00;
-}
-
-footer a {
-	font-size: 50px;
-	color: #2EF80A;
-	text-shadow: 4px 4px 4px #307F3D;
-	display: block;
-	text-align: center;
-	line-height: 100px;
+.header-left{
+	font-size: x-larg;
 }
