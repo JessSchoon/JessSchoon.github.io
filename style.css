@@ -16,13 +16,16 @@ justify-content: space-between;
 align-items: center;
 }
 
-.header-left{
-	font-size: xx-large;
-}
-
 h1 {
 font-size: 100px;
 line-height: 200px;
 margin: 0;
+text-shadow: 4px 4px 4px #307F3D;
+}
+
+h2 {
+text-align: center;
+color:#2EF80A;
+font-size: 50px;
 text-shadow: 4px 4px 4px #307F3D;
 }
