@@ -21,6 +21,7 @@ color: #2EF80A;
 text-shadow: 4px 4px 4px #307F3D;
 display: block;
 text-align: center;
+text-decoration: none
 }
 
 h1 {
@@ -63,4 +64,5 @@ text-shadow: 4px 4px 4px #307F3D;
 display: block;
 text-align: center;
 line-height: 100px;
+text-decoration: none;
 }
