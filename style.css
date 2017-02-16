@@ -51,6 +51,17 @@ display: block;
 margin: 0 auto;
 }
 
+.small-block {
+  float: left;
+  display: block;
+  width: 220px;
+  margin-right: 30px;
+}
+
+.small-block:last-child {
+  margin-right: 0;
+}
+
 footer {
 background: #00069A;
 height: 100px;
