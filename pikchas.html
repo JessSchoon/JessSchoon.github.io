@@ -24,16 +24,16 @@
       </div>
   </header>
   <section id = "filters" style = "padding: 50px">
-  <a id ="all" href="#"> All the Pictures! </a>
+  <a id="all" href="#"> All the Pictures! </a>
   <a id="tiny" href="#"> Pictures of Tiny </a>
   <a id="monkey" href="#"> Pictures of Monkey</a>
-  <a id ="together" href="#"> Pictures of the kids together</a>
+  <a id="together" href="#"> Pictures of the kids together</a>
   </section>
 
 <div id="imagelist">
-  <img class = "together" src="img/Plus2s/plus2-0.jpg" alt="Christmas presents">
-  <img class = "together" src="img/Plus2s/Plus2-1.jpg" alt="Rain and kids">
-  <img class = "together" src="img/Plus2s/Plus2-2.jpg" alt="Perch and Play">
+  <img class="together" src="img/Plus2s/plus2-0.jpg" alt="Christmas presents">
+  <img class="together" src="img/Plus2s/Plus2-1.jpg" alt="Rain and kids">
+  <img class="together" src="img/Plus2s/Plus2-2.jpg" alt="Perch and Play">
   <img class="monkey" src="img/Monkey/Monkey1.jpg" alt="Dress up">
   <img class="monkey" src="img/Monkey/Monkey2.jpg" alt="Princess Superhero">
   <img class="monkey" src="img/Monkey/Monkey3.jpg" alt="Dark Vader">
@@ -48,7 +48,7 @@
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script>
-/*$('#all').click(function(){
+$('#all').click(function(){
   $('#imagelist img').show();
 })
 $('#tiny').click(function(){
@@ -63,7 +63,7 @@ $('#together').click(function(){
   $('#imagelist img:not(.together)').hide();
   $('#imagelist img.together').show();
 })
-*/
+
 
 var type = window.location.hash.substr(1);
 if (type != ''){
